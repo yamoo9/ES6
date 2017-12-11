@@ -4,10 +4,10 @@
 
 모던 자바스크립트 EcmaScript 2015(ES6)를 오늘날 브라우저에서 바로 사용하기 위한 방법을 학습합니다.
 
-- ES2015(ES6)
-- Babel
-- Rollup
-- Webpack
+- [ES2015(ES6)](https://www.ecma-international.org/ecma-262/6.0)
+- [Babel](https://babeljs.io)
+- [Rollup](https://rollupjs.org)
+- [Webpack](https://webpack.js.org/)
 
 ### 키노트
 
