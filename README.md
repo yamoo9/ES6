@@ -2,7 +2,12 @@
 
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/760612/images/4378168/es6.png" alt="" width="160" align="right">
 
-모던 자바스크립트 개발
+모던 자바스크립트 EcmaScript 2015(ES6)를 오늘날 브라우저에서 바로 사용하기 위한 방법을 학습합니다.
+
+- ES2015(ES6)
+- Babel
+- Rollup
+- Webpack
 
 ### 키노트
 
