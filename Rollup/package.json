@@ -1,0 +1,28 @@
+{
+  "name": "rollup-startkit",
+  "version": "0.0.1",
+  "description": "Rollup 스타트킷",
+  "main": "index.js",
+  "author": "yamoo9",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "rollup -cw",
+    "build": "BUILD=true rollup -c"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "rollup": "^0.52.1",
+    "rollup-plugin-babel": "^3.0.2",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-uglify": "^2.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
